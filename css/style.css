@@ -1,0 +1,130 @@
+
+.header{
+    margin-left: 50px;
+    padding:10px 0 5px;
+    display:flex;
+
+
+}
+.logo{
+  width: 90px;
+    height: 90px;
+    border-radius: 50%;
+    overflow: hidden;
+    margin-top: -6px;
+    margin-left: 180px;
+}
+.head{
+  margin-left: 150px;
+}
+.heads{
+    font-family: 'Montserrat', sans-serif;
+  color: #1F1D36;
+margin-left: 40px;
+margin-right: 40px;
+float:left;
+padding-left: 20px;
+padding-right: 20px;
+padding-top: 25px;
+padding-bottom: 25px;
+
+}
+a:link{
+  text-decoration: none;
+}
+a:hover{
+  color: #3F0713
+}
+
+.container{
+
+  margin-bottom: 20px;
+
+
+}
+#name {
+    max-width: 2200px;
+    max-height: 1500px;
+
+}
+
+
+.center-text {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-family: 'Mansalva', cursive;
+  font-size: 400%;
+  color: #FFFFFF;
+
+}
+.endline{
+  font-family: 'Montserrat', sans-serif;
+  margin-top: 50px;
+  margin-left:650px;
+margin-right:600px;
+color: #1F1D36;
+font-size: 0.8rem;
+
+}
+
+
+
+.about{
+  position:relative;
+  text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    padding-top: 20px;
+
+}
+.about_container {
+ display:flex;
+
+
+}
+.profile_img{
+  max-width: 500px;
+  max-height: 800px;
+  margin-top: 30px;
+  margin-left: 240px;
+margin-bottom: 100px;
+  flex-basis: 40%
+}
+.About_content{
+  margin-top: 30px;
+  padding-left:20px;
+  padding-right: 120px;
+  font-family: 'Montserrat', sans-serif;
+}
+
+
+
+
+
+
+.row {
+  display: -ms-flexbox; /* IE 10 */
+  display: flex;
+  -ms-flex-wrap: wrap; /* IE 10 */
+  flex-wrap: wrap;
+  padding: 0 4px;
+}
+
+/* Create two equal columns that sits next to each other */
+.column {
+  -ms-flex: 50%; /* IE 10 */
+  flex: 50%;
+  padding: 0 4px;
+}
+
+.column img {
+  margin-top: 8px;
+  vertical-align: middle;
+}
+
+
+.headerr {
+  text-align: center;
+  padding: 32px;
+}
