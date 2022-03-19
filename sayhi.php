@@ -44,7 +44,7 @@
 			</div>
 			<div class="col-md-6 col-sm-12">
 				<div class="styled-input" style="float:right;">
-					<input type="phone" required />
+					<input type="tel" required type="phone" />
 					<label>Phone Number</label> 
 				</div>
 			</div>
