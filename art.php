@@ -30,7 +30,7 @@
     <div class="gallery-item">
       <div class="images"><img src="images/img1.jpg" alt="Photo1">
       </div>
-      <div class="title">Photo1</div>
+      <div class="title">Lacuna</div>
     </div>
   </div>
 
@@ -38,7 +38,7 @@
     <div class="gallery-item">
       <div class="images"><img src="images/img2.jpg" alt="Photo2">
       </div>
-      <div class="title">Photo2</div>
+      <div class="title">Silence</div>
     </div>
   </div>
 
@@ -46,7 +46,7 @@
     <div class="gallery-item">
       <div class="images"><img src="images/img3.jpg" alt="Photo3">
       </div>
-      <div class="title">Photo3</div>
+      <div class="title">Bunny Girl Senpai</div>
     </div>
   </div>
 
@@ -54,7 +54,7 @@
     <div class="gallery-item">
       <div class="images"><img src="images/img4.jpg" alt="Photo4">
       </div>
-      <div class="title">Photo4</div>
+      <div class="title">Zero Two</div>
     </div>
   </div>
 
@@ -62,7 +62,7 @@
     <div class="gallery-item">
       <div class="images"><img src="images/img5.jpg" alt="Photo5">
       </div>
-      <div class="title">Photo5</div>
+      <div class="title">Rika Kawai</div>
     </div>
   </div>
 
@@ -70,7 +70,7 @@
     <div class="gallery-item">
       <div class="images"><img src="images/img6.jpg" alt="Photo6">
       </div>
-      <div class="title">Photo6</div>
+      <div class="title">Folklore</div>
     </div>
   </div>
 
@@ -78,7 +78,7 @@
     <div class="gallery-item">
       <div class="images"><img src="images/img7.jpg"alt="Photo7">
       </div>
-      <div class="title">Photo7</div>
+      <div class="title">Depression</div>
     </div>
   </div>
 
@@ -86,7 +86,7 @@
     <div class="gallery-item">
       <div class="images"><img src="images/img8.jpg" alt="Photo8">
       </div>
-      <div class="title">Photo8</div>
+      <div class="title">Anxiety</div>
     </div>
   </div>
 
@@ -94,7 +94,7 @@
     <div class="gallery-item">
       <div class="images"><img src="images/img9.jpg" alt="Photo9">
       </div>
-      <div class="title">Photo9</div>
+      <div class="title">Deku</div>
     </div>
   </div>
 
@@ -102,7 +102,7 @@
     <div class="gallery-item">
       <div class="images"><img src="images/img10.jpg"alt="Photo10">
       </div>
-      <div class="title">Photo10</div>
+      <div class="title">Vulpa</div>
     </div>
   </div>
 
@@ -110,49 +110,49 @@
     <div class="gallery-item">
       <div class="images"><img src="images/img11.jpg" alt="Photo11">
       </div>
-      <div class="title">Photo11</div>
+      <div class="title">Ken Kaneki</div>
     </div>
   </div>
   <div class="gallery-container">
     <div class="gallery-item">
       <div class="images"><img src="images/img12.jpg" alt="Photo12">
       </div>
-      <div class="title">Photo12</div>
+      <div class="title">Itachi</div>
     </div>
   </div>
   <div class="gallery-container">
     <div class="gallery-item">
       <div class="images"><img src="images/img13.jpg" alt="Photo13">
       </div>
-      <div class="title">Photo13</div>
+      <div class="title">Zoro</div>
     </div>
   </div>
   <div class="gallery-container">
     <div class="gallery-item">
       <div class="images"><img src="images/img14.jpg" alt="Photo14">
       </div>
-      <div class="title">Photo14</div>
+      <div class="title">Fubuki</div>
     </div>
   </div>
   <div class="gallery-container">
     <div class="gallery-item">
       <div class="images"><img src="images/img15.jpg" alt="Photo15">
       </div>
-      <div class="title">Photo15</div>
+      <div class="title">Nobera</div>
     </div>
   </div>
   <div class="gallery-container">
     <div class="gallery-item">
       <div class="images"><img src="images/img16.jpg" alt="Photo16">
       </div>
-      <div class="title">Photo16</div>
+      <div class="title">Super Yuri</div>
     </div>
   </div>
   <div class="gallery-container">
     <div class="gallery-item">
       <div class="images"><img src="images/img17.jpg" alt="Photo16">
       </div>
-      <div class="title">Photo17</div>
+      <div class="title">Lover (Taylor's Version)</div>
     </div>
   </div>
 </div>

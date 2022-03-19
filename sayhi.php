@@ -27,26 +27,44 @@
 <div class="hitext">
   <h1>SAY HI</h1>
   <p><b>Want to talk about art or want to collaborate? Drop a message below!</b></p>
-
-  </div>
-  <form class="xyz" action="connect.php" method="post">
-    <div class="formm">
-      <div class="nme">
-        Name: <input type="text" name="name" required>
-        </div>
-      <div class="mail">
-        Email: <input type="email" name="e_mail" required>
-        </div>
-      <div class ="message" >
-          Leave a Message:<textarea name="message" rows="5" cols="60" required></textarea>
-      </div>
-      <input type="submit" value="Submit" />
+  <form method="post" action="connect.php">
+  <div class="container">
+	<div class="row input-container">
+			<div class="col-xs-12">
+				<div class="styled-input wide">
+					<input type="text" required name="name"/>
+					<label>Name</label> 
+				</div>
+			</div>
+			<div class="col-md-6 col-sm-12">
+				<div class="styled-input">
+					<input type="email" required name="e_mail"/>
+					<label>Email</label> 
+				</div>
+			</div>
+			<div class="col-md-6 col-sm-12">
+				<div class="styled-input" style="float:right;">
+					<input type="phone" required />
+					<label>Phone Number</label> 
+				</div>
+			</div>
+			<div class="col-xs-12">
+				<div class="styled-input wide">
+					<textarea required name="message"></textarea>
+					<label>Message</label>
+				</div>
+			</div>
+			<div class="col-xs-12">
+				<button type="submit" class="btn-lrg submit-btn">Send Message</div>
+			</div>
+	</div>
+</div>
 </form>
-      </div>
+  </div>
       <div class="footer">
-        <a class= "footers" href="">Twitter</a>
-        <a class= "footers" href="">Instagram</a>
-        <a class= "footers" href="">Facebook</a>
+        <a class= "footers" href="https://twitter.com/shrey1_st?t=nRy1UJUqZEIF0Lwl0VPs1A&s=09" target="_blank">Twitter</a>
+        <a class= "footers" href="https://www.instagram.com/_lacuna_13/" target="_blank">Instagram</a>
+        <a class= "footers" href="https://pin.it/6esIj1n" target="_blank">Pinterest</a>
       </div>
 
   <div class="endline">

@@ -31,14 +31,13 @@
   <div class="About_content">
 
     <p>
-      Hey!  You might be well aware of my name by now! Anyway I am Shreyshi, a sixteen year old digital illustrator and graphic designer.Other than that I also study Biology.
-      I hail from Dehradun,India. I wish to study graphic drsigning after I complete my schooling. I think I might as well start a small shop for myself but for now it's judt a mere thought.
-      <br> <br> Art is something that gives me the sense of belongingness. I started off by doing little sketches in pencil as a kid and then covid knocked the world down. The whole lockdown brought the opportunity
-      to enhance my skills, that's when I bought a little writing pad to start of with my illustration journey. It took me sometime to  get a hold of it.i I have been
-      freelancing and have did some work for some local buisnesses.<br> <br>
+      Hey!  You might be well aware of my name by now! Anyway, I am Shreyshi, a sixteen-year-old digital illustrator and graphic designer. Other than that I also study Biology.
+      I hail from Dehradun, India. I wish to study graphic design after I complete my schooling. I think I might as well start a small shop for myself but for now, it's just a mere thought.  
+      <br> <br>Art is something that gives me the sense of belongingness. I started by doing little sketches in pencil as a kid and then covid knocked the world down. The whole lockdown brought the opportunity to enhance my skills, that's when I bought a little writing pad to start with my illustration journey. It took me some time to get a hold of it. I have been
+      freelancing and have done some work for some local businesses.<br> <br>
 
-      Well now I have a tablet to illustrate on and I wish to explore the domain throughout. Art is something I enjoy doing and I don't really think there is anything
-      that I really like more than this. I love creating things and giving life to what I draw.
+      Well now I have a tablet to illustrate on and I wish to explore the domain throughout. Art is something I enjoy doing and I don't think there is anything
+      that I like more than this. I love creating things and giving life to what I draw.
     </p>
   </div>
 </div>

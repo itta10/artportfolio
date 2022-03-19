@@ -15,8 +15,6 @@ $stmt->execute();
 echo '<script>alert("Ish Wish")</script>';
 
 
-
-
 $stmt->close();
 $conn->close();}
 header("Location:thankyou.php");
